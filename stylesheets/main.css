@@ -17,9 +17,21 @@ display:inline;
 padding:37px
 }
 
-a:link, a:visited
+a:link 
 {
 color:#808080
+}
+
+a:visited
+{
+color:#808080;
+}
+
+a:hover
+{
+color:black;
+text-decoration:none;
+font-weight:bold;
 }
 
 .projects
@@ -41,19 +53,23 @@ margin-right:auto;
 margin-top:100px;
 }
 
+.contactinfo
+{
+font-size:28px;
+}
+
 .self
 {
 padding-top:90px;
 margin-top:0.8em;
 }
 
-.fancybox
+.btn
 {
-height:219px;
-width:319px;
+color:gray;
 }
 
 .footer
-{
+{ 
 margin-top:50px;
 }

@@ -1,7 +1,7 @@
 h1
 {
 font-size:65px;
-font-family:"Cambria";
+font-family:"Arial";
 margin-top:100px;
 }
 
@@ -22,6 +22,11 @@ a:link, a:visited
 color:#808080
 }
 
+.header
+{
+text-align:center;
+}
+
 .projects
 {
 margin-top:100px;
@@ -34,12 +39,16 @@ margin-right:auto;
 margin-top:100px;
 margin-left:auto;
 margin-right:auto;
+}
 
+.contact
+{
+margin-top:100px;
 }
 
 .self
 {
-padding-top:100px;
+padding-top:90px;
 margin-top:0.8em;
 }
 
